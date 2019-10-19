@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571457542 source:c:\users\administrator\desktop\star program\star 162-15-7706.c
+	<GL/gl.h>
+	<GL/glut.h>
+
